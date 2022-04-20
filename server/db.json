@@ -1,0 +1,97 @@
+{
+  "posts": [
+    {
+      "id": "react-hooks",
+      "title": "React Hooks",
+      "content": "The greatest thing since sliced bread!",
+      "author": "John Doe"
+    },
+    {
+      "id": "react-fragments",
+      "title": "Using React Fragments",
+      "content": "Keeping the DOM tree clean!",
+      "author": "John Doe"
+    },
+    {
+      "title": "Another Test Post",
+      "content": "I have no idea what to write here...",
+      "author": "Igor Pelekhan",
+      "id": "gD9w9v9"
+    },
+    {
+      "title": "Yet Another Test Post",
+      "content": "Current post basically shows, that back end generates post ids properly.",
+      "author": "Igor Pelekhan",
+      "id": "_4pYAEu"
+    },
+    {
+      "title": "Testing Inputs Reset",
+      "content": "Inputs should become empty on a new post creation.",
+      "author": "Igor Pelekhan",
+      "id": "wlGlLXr"
+    },
+    {
+      "title": "Testing Navigation",
+      "content": "Created post should be shown once \"Create\" button is pressed.",
+      "author": "Igor Pelekhan",
+      "id": "bsY6g-o"
+    },
+    {
+      "title": "Testing useInput Hook",
+      "content": "Just a few words here.",
+      "author": "Igor Pelekhan",
+      "id": "SLzgmak"
+    },
+    {
+      "title": "Testing Undo and Redo",
+      "content": "Now it's possible to undo typed text.",
+      "author": "Igor Pelekhan",
+      "id": "_9s-oAg"
+    },
+    {
+      "title": "Testing Custom Hooks",
+      "content": "Just a test post.",
+      "author": "Igor Pelekhan",
+      "id": "h-cY7zr"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "John Doe",
+      "password": "supersecure42"
+    },
+    {
+      "username": "Igor Pelekhan",
+      "password": "qqq",
+      "id": 2
+    },
+    {
+      "username": "John Doe",
+      "password": "www",
+      "id": 3
+    },
+    {
+      "username": "Adam Bacon",
+      "password": "qqq",
+      "id": 4
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "primaryColor": "deepskyblue",
+      "secondaryColor": "coral"
+    },
+    {
+      "id": 2,
+      "primaryColor": "orchid",
+      "secondaryColor": "mediumseagreen"
+    },
+    {
+      "id": 3,
+      "primaryColor": "darkslategray",
+      "secondaryColor": "slategray"
+    }
+  ]
+}

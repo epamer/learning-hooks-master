@@ -1,0 +1,22 @@
+.spinner {
+  width: 2em;
+  height: 2em;
+  margin: 0.5em;
+  border: 3px solid slategrey;
+  border-radius: 100%;
+  border-right-color: rgba(255, 255, 255, 1);
+  animation-name: spinner-spin;
+  animation-duration: 5s;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+}
+
+@keyframes spinner-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}

@@ -1,0 +1,10 @@
+.button:disabled,
+a.button:disabled,
+button:disabled,
+[type="submit"]:disabled,
+[type="reset"]:disabled,
+[type="button"]:disabled {
+  background-color: #dddddd;
+  border-color: #dddddd;
+  cursor: not-allowed;
+}
